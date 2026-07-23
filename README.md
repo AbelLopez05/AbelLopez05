@@ -59,6 +59,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [monitor-red-mina](https://github.com/AbelLopez05/monitor-red-mina) | Monitoreo de red para minería subterránea: ping por niveles, incidencias automáticas y documentación de fibra TIA-598 | Python · FastAPI |
 | [Portafolio](https://abellopez05.github.io) | Mi trabajo real en minería: Starlink, backups anti-borrado, pipeline antifraude de comedor, SaaS ambiental | HTML/CSS/JS |
 | [plataforma-sgsi-undac](https://github.com/AbelLopez05/plataforma-sgsi-undac) | Plataforma SGSI — proyecto académico UNDAC | Python |
 | [atomic-tracker](https://github.com/AbelLopez05/atomic-tracker) | Tracker de hábitos inspirado en Atomic Habits | Python |
